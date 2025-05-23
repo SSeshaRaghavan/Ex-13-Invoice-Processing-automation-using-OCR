@@ -1,9 +1,9 @@
 # Ex-13-Invoice-Processing-automation-using-OCR
 
-~~~
-Name : M.JOHNPALL
-Reg.No : 212224040140
-~~~
+Name : S Sesha Raghavan
+
+Reg.No : 212224040302
+
 
 ## Aim
 To automate the extraction of key information (Invoice Number, Date, and Total Amount) from a scanned invoice PDF using OCR technology in UiPath and store the extracted data into an Excel file.
